@@ -24,8 +24,6 @@
 <a href="linkedin.com/in/dulanga-wanniachchi-184675215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulanga-wanniarachchi-184675215" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=android,bootstrap,c,cpp,css,express,figma,git,html,java,js,kotlin,mongodb,mysql,nodejs,php,postman,python,react,sqlite" />
 </p>
